@@ -22,7 +22,7 @@
   Includes a short thing about pull-up resistors.
 
 * [Powering Light Emitting Diodes (LEDs)]
-  (http://wolfstone.halloweenhost.com/Lighting/litlpo_PoweringLEDs.html)  
+  (https://thepsp.in/happy-halloween-meme/)  
   Can you use one resistor for multiple parallel LEDs?  No.  Or, you can, but
   it's not the best idea.
 
@@ -31,9 +31,9 @@
       -> [Wolfstone's Haunted Halloween Page]
          (http://thewolfstone.com/_ar/Halloween.html)
       -> [technology]
-         (http://wolfstone.halloweenhost.com/Navigation/TechBase.html)
+         (https://thepsp.in/happy-halloween-clipart/)
       -> [powering LEDs]
-         (http://wolfstone.halloweenhost.com/Lighting/litlpo_PoweringLEDs.html)
+         (https://thepsp.in/happy-halloween-pumpkin-images/)
 
 * [Notes on LEDs]
   (http://www.gizmology.net/LEDs.htm)  
